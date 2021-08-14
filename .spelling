@@ -1,0 +1,20 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+Prisma
+SQLite
+Node.js
+NPM
+config
+UI
+npm
+CSV
+dataset
+ - doc/node_modules/gatsby-recipes/recipes/ava.mdx
+package.json.
+ - doc/node_modules/gatsby-recipes/recipes/chakra-ui.mdx
+Chakra
+ - doc/node_modules/gatsby-recipes/recipes/cypress.mdx
+e2e

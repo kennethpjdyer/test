@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "nexus-prisma": "^0.30.0",
+    "prisma": "^2.29.1"
+  }
+}

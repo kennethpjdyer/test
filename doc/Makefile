@@ -1,0 +1,2 @@
+install:
+	npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react

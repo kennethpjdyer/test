@@ -171,3 +171,5 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+app/classics.csv
